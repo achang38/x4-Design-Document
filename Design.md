@@ -3,7 +3,8 @@ Project Title:
 Program Name:
 
 # 2. Authors
-
+* Allen Chang (achang38@wisc.edu)
+* 
 # 3. Description
 
 # 4. Stakeholders
